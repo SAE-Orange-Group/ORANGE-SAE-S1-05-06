@@ -3,3 +3,12 @@ nav {
     align-items: center;
     gap: 20px;
 }
+
+header {
+        background-color: rgba(255, 153, 0, 0.685);
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 1rem 5%;
+        position: sticky;
+}

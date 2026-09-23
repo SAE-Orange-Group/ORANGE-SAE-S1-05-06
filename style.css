@@ -4,3 +4,10 @@ nav {
     gap: 20px;
     background-color: black;
 }
+.navbar .nav-link {
+    color: black !important;
+}
+.navbar .nav-link: hover {
+    color: darkorange !important;
+}
+    

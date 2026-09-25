@@ -37,7 +37,13 @@ Le résultat attendu est un site vitrine permettant de présenter l'entreprise O
 
 ---
 
- ## SAE — Projet de présentation d'entreprise
+##  Technologies utilisées
 
-**ORANGE-SAE-S1-05-06**
-Projet réalisé en équipe — HTML / CSS / JavaScript / GitHub
+Le site a été entièrement conçu avec des technologies web standards, sans framework lourd, afin de garantir la légèreté et la compatibilité :
+
+* **HTML5** : Structuration du contenu, des textes et des sections de chaque page.
+* **CSS3** : Mise en page, charte graphique (couleurs Orange), design moderne et adaptatif (Responsive Design).
+* **JavaScript** : Ajout d'interactivité.
+* **Git & GitHub** : Gestion du code source en équipe et hébergement via **GitHub Pages**.
+
+---

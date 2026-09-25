@@ -7,13 +7,13 @@
 ## Membres du groupe
 
 
--Le projet est réalisé par :
+Le projet est réalisé par :
 
 * **YASSINE** : [Accueil](index.html)
 * **BENJAMIN** : [Économie](page1.html)
 * **FANNY** : [Écologie](page3.html)
 * **DEFNE** : [Innovations](page2.html)
-
+--
 **La référente** : defne.aksoy@edu.univ-fcomte.fr
 --
 <img width="208" height="219" alt="image" src="https://github.com/user-attachments/assets/2e6b4207-0766-4329-9d9b-1bdc601a19f5" />

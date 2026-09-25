@@ -16,7 +16,7 @@ Le projet est réalisé par :
 * **BENJAMIN** : [Économie](page1.html)
 * **FANNY** : [Écologie](page3.html)
 * **DEFNE** : [Innovations](page2.html)
-
+email du référent: defne.aksoy25@icloud.com
 ---
 
 - Lien utile :

@@ -1,5 +1,3 @@
-# ORANGE-SAE-S1-05-06
-
 ## Présentation du projet
 
 **ORANGE-SAE-S1-05-06** est un projet réalisé dans le cadre d'une SAE ayant pour objectif de concevoir un **site vitrine présentant l'entreprise Orange**.
@@ -14,36 +12,18 @@ L'objectif principal du projet est de créer un **site vitrine moderne et access
 
 Le projet est réalisé par :
 
-* **YASSINE**
-* **BENJAMIN**
-* **FANNY**
-* **DEFNE**
+* **YASSINE** : [Accueil](index.html)
+* **BENJAMIN** : [Economie](page1.html)
+* **FANNY** : [Ecologie](page3.html)
+* **DEFNE** : [Innovations](page2.html)
 
-- Ma contribution
+---
 
-## Page Menu
+- Lien utile :
 
-Dans ce projet, **Yassine** est responsable de l'ensemble de la **page Menu**.
+  [Notre liens vers le site](https://sae-orange-group.github.io/ORANGE-SAE-S1-05-06/)
 
-Ses responsabilités comprennent notamment :
-
-* La conception de la structure de la page Menu.
-* L'intégration des différents éléments avec **HTML**.
-* La mise en forme et l'identité visuelle avec **CSS**.
-* L'ajout des interactions et fonctionnalités nécessaires avec **JavaScript**.
-* La création et l'organisation de la navigation.
-* L'intégration des différents contenus de la page.
-* La vérification du fonctionnement et de l'affichage de la page.
-* La gestion de la page dans le dépôt **GitHub**.
-
-- Technologies utilisées
-
-Le projet utilise les technologies et outils suivants :
-
-* **HTML5** — structure des pages web
-* **CSS3** — mise en forme et design
-* **JavaScript** — interactions et fonctionnalités
-* **GitHub** — gestion et partage du projet
+---
 
 - Organisation du travail
 

@@ -34,13 +34,14 @@ L'objectif principal du projet est de créer un **site vitrine moderne et access
 
 - Organisation du travail
 
-Le projet est réalisé en équipe. Chaque membre participe au développement du site et prend en charge différentes parties du projet.
+Le projet est réalisé en équipe. Chaque membre participe au développement du site et prend en charge différentes parties du projet. 
+Un planning lie toute l'organisation de ce travail.
 
 La page Menu constitue l'une des parties principales du site et permet à l'utilisateur de naviguer facilement entre les différentes sections proposées.
 
 - Résultat attendu
 
-Le résultat attendu est un site vitrine permettant de présenter l'entreprise Orange de manière claire, moderne et intuitive, tout en offrant une navigation simple pour l'utilisateur.
+Le résultat attendu est un site vitrine permettant de présenter l'entreprise Orange de manière claire, moderne et intuitive, tout en offrant une navigation simple pour l'utilisateur. 
 
 ---
 
@@ -62,9 +63,9 @@ Le site a été entièrement conçu avec des technologies web standards, sans fr
 Le projet est structuré de manière simple pour faciliter la maintenance :
 
 * `index.html` : La page d'accueil qui sert de point d'arrivée sur le site.
-* `page1.html`, `page2.html`, `page3.html` : Les pages thématiques détaillant l'économie, l'écologie et les innovations.
+* `page1.html`, `page2.html`, `page3.html` : Les pages thématiques détaillant l'économie, les innovations et l'écologie.
 * `.css` : Regroupe les feuilles de style pour l'apparence visuelle (plusieurs fichiers sont utilisés afin de faciliter la modification du code de chaque page concernée).
 
 ### Comment le site fonctionne-t-il ?
 1. **Point d'arrivée** : L'utilisateur arrive sur la page d'accueil (`index.html`).
-2. **Navigation intuitive** : Un menu de navigation (Navbar) est présent sur toutes les pages. Il permet de basculer instantanément d'un thème à un autre (Économie, Écologie, Innovations) sans perdre le fil.
+2. **Navigation intuitive** : Un menu de navigation (Navbar) est présent sur toutes les pages. Il permet de basculer via des boutons instantanément d'un thème à un autre (Économie, Écologie, Innovations) sans perdre le fil.

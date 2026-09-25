@@ -4,10 +4,10 @@
 
 ---
 
-##Membres du groupe
+## Membres du groupe
 
 
-Le projet est réalisé par :
+-Le projet est réalisé par :
 
 * **YASSINE** : [Accueil](index.html)
 * **BENJAMIN** : [Économie](page1.html)

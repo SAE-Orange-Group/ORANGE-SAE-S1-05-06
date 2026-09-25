@@ -1,6 +1,6 @@
 ## Sujet:
 
-  [Notre lien vers le site](https://sae-orange-group.github.io/ORANGE-SAE-S1-05-06/)
+  [ORANGE-SAE-S1-05-06-G2](https://sae-orange-group.github.io/ORANGE-SAE-S1-05-06/)
 
 ---
 
@@ -14,7 +14,7 @@ Le projet est réalisé par :
 * **FANNY** : [Écologie](page3.html)
 * **DEFNE** : [Innovations](page2.html)
 
-**La référente** : defne.aksoy@edu.univ-fcomte.fr
+**La référente** : [aksoy](defne.aksoy@edu.univ-fcomte.fr)
 
 <img width="208" height="219" alt="image" src="https://github.com/user-attachments/assets/2e6b4207-0766-4329-9d9b-1bdc601a19f5" />
 

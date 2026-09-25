@@ -1,10 +1,11 @@
-***Sujet*** :
+## Sujet:
 
   [Notre lien vers le site](https://sae-orange-group.github.io/ORANGE-SAE-S1-05-06/)
 
 ---
 
-**Membres du groupe**
+##Membres du groupe
+
 
 Le projet est réalisé par :
 
@@ -14,6 +15,8 @@ Le projet est réalisé par :
 * **DEFNE** : [Innovations](page2.html)
 
 **La référente** : defne.aksoy@edu.univ-fcomte.fr
+--
+<img width="208" height="219" alt="image" src="https://github.com/user-attachments/assets/2e6b4207-0766-4329-9d9b-1bdc601a19f5" />
 
 ---
 

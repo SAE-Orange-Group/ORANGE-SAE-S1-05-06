@@ -1,3 +1,22 @@
+***Sujet*** :
+
+  [Notre lien vers le site](https://sae-orange-group.github.io/ORANGE-SAE-S1-05-06/)
+
+---
+
+**Membres du groupe**
+
+Le projet est réalisé par :
+
+* **YASSINE** : [Accueil](index.html)
+* **BENJAMIN** : [Économie](page1.html)
+* **FANNY** : [Écologie](page3.html)
+* **DEFNE** : [Innovations](page2.html)
+
+**La référente** : defne.aksoy@edu.univ-fcomte.fr
+
+---
+
 ## Présentation du projet
 
 **ORANGE-SAE-S1-05-06** est un projet réalisé dans le cadre d'une SAE ayant pour objectif de concevoir un **site vitrine présentant l'entreprise Orange**.
@@ -7,21 +26,6 @@ Le site a été développé en équipe avec une attention particulière portée 
 ## Objectif
 
 L'objectif principal du projet est de créer un **site vitrine moderne et accessible** permettant de présenter l'entreprise Orange, son univers et ses services à travers une interface web claire et structurée.
-
-- Équipe
-
-Le projet est réalisé par :
-
-* **YASSINE** : [Accueil](index.html)
-* **BENJAMIN** : [Économie](page1.html)
-* **FANNY** : [Écologie](page3.html)
-* **DEFNE** : [Innovations](page2.html)
-email du référent: defne.aksoy25@icloud.com
----
-
-- Lien utile :
-
-  [Notre lien vers le site](https://sae-orange-group.github.io/ORANGE-SAE-S1-05-06/)
 
 ---
 

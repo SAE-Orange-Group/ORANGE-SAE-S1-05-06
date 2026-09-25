@@ -14,7 +14,7 @@ Le projet est réalisé par :
 * **FANNY** : [Écologie](page3.html)
 * **DEFNE** : [Innovations](page2.html)
 
-**La référente** : [aksoy](defne.aksoy@edu.univ-fcomte.fr)
+**La référente** : [aksoy](mailto:defne.aksoy@edu.univ-fcomte.fr?subject=SAE_1_05_06)
 
 <img width="208" height="219" alt="image" src="https://github.com/user-attachments/assets/2e6b4207-0766-4329-9d9b-1bdc601a19f5" />
 

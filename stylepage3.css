@@ -182,7 +182,7 @@ html {
 
     background:
         linear-gradient(rgba(45, 45, 45, 0.514), rgba(45, 45, 45, 0.514)),
-        url("arbre.jpg");
+        url("images/arbre.jpg");
 
     background-size: cover;
     background-position: center top;
